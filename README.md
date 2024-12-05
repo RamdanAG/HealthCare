@@ -1,16 +1,15 @@
-# Midori VTuber Assistant
+# MetaCare
 
-Platform pendidikan berbasis Web 3 yang menggunakan AI untuk memberikan pembelajaran yang personal dan berbasis blockchain untuk sertifikasi.
+A Web 3-based educational platform leveraging AI to deliver personalized learning experiences and blockchain for certification.
 
+## Requirements
 
-##Kebutuhan
+The requirements may change over time; however, the following are the current needs for the upcoming project.
 
-sewaktu waktu kebutuhan bisa saja berubah akan tetapi untuk saat ini
-ini yang akan di gunakan untuk project kedepanya.
-
- | Komponen     | Framework/Liblary               | Bahasa
- | Front end    | React.js                        | Js/Tp
- | Back End     | Express.js/NestJS               | Js/Tp
- | Blockchain   | Ethereum, Solidity, Web3.js     | Solidy
- | AI           | TensorFlow.js atau OpenAI API   | Python/Js
- | Database     | MongoDB, IPFS                   | - 
+| Component     | Framework/Library              | Language       |
+|---------------|--------------------------------|----------------|
+| Frontend      | React.js                       | JavaScript/TypeScript |
+| Backend       | Express.js/NestJS              | JavaScript/TypeScript |
+| Blockchain    | Ethereum, Solidity, Web3.js    | Solidity       |
+| AI            | TensorFlow.js or OpenAI API    | Python/JavaScript |
+| Database      | MongoDB, IPFS                  | -              |
