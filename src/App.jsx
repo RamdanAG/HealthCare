@@ -1,11 +1,13 @@
-import { useState } from 'react'
+import React from "react";
+import Chatbot from "./components/Chatbot";
 
-function App() {
-
+const HomePage = () => {
   return (
-    <>
-    </>
-  )
-}
+    <div>
+      <h1 style={{ textAlign: "center", marginTop: "20px" }}>HealthVerse Chatbot</h1>
+      <Chatbot />
+    </div>
+  );
+};
 
-export default App
+export default HomePage;
